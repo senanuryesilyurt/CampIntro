@@ -6882,11 +6882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6903,11 +6903,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj"
             }
           }
         }

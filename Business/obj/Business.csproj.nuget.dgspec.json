@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,11 +213,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj"
               },
-              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj"
               }
             }
           }
@@ -257,14 +257,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,8 +281,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProject-C#\\Core\\Core.csproj"
+              "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\source\\repos\\NYGK-FinalProjectBackend-C#\\Core\\Core.csproj"
               }
             }
           }
